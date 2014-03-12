@@ -1,0 +1,3 @@
+#Usage: python main_query.py <hostname><portnum><dbname>
+python search.py c0114-ib 27017 hdf5
+

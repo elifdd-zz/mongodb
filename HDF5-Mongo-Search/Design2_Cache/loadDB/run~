@@ -1,0 +1,3 @@
+#python hdf5_mongo.py /project/projectdirs/als/unpacker.util/sample.data c0114-ib 27017 hdf5
+python hdf5_mongo.py /project/projectdirs/als/unpacker.util/sample.data/tomtile.h5 c0114-ib 27017 hdf5
+#python hdf5_mongo_combined_records.py /project/projectdirs/als/unpacker.util/sample.data/tomtile.h5 c0114-ib 27017 hdf5

@@ -1,0 +1,6 @@
+
+##Usage: python hdf5_mongo.py <filename><hostname><portnum><dbname>
+## file name can be a file or a directory
+
+python hdf5_mongo.py /project/projectdirs/als/unpacker.util/sample.data/tomtile.h5 c0114-ib 27017 hdf5
+

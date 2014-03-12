@@ -1,0 +1,13 @@
+1- Load python modules:
+   > module load python
+
+2- Export path for pymongo
+   > export PYTHONPATH="/global/homes/e/edede/local/lib/python2.7/site-packages"
+
+3- Start the mongoDB server
+
+4- Load HDF5 files to MongoDB
+   load/./run
+
+5- Start search tool
+   search/./run_search
